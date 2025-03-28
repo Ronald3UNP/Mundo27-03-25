@@ -148,3 +148,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [28Mar2025 03:33:46.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RonaldPe25 joined the game
 [28Mar2025 03:33:49.811] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2955ms or 59 ticks behind
 [28Mar2025 03:34:27.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
+[28Mar2025 03:47:24.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Teleported RonaldPe25 to -2326.500000, 63.500000, 280.500000]
