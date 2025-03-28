@@ -457,3 +457,29 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [28Mar2025 05:30:53.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElGero120> vopy
 [28Mar2025 05:30:54.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> y rotar las coords xd
 [28Mar2025 05:30:55.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElGero120> un toqw
+[28Mar2025 05:30:59.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElGero120> xd
+[28Mar2025 05:31:23.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TeemoLimon moved too quickly! -9.805801111378628,0.41999998688697815,-2.9055478661938423
+[28Mar2025 05:32:25.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElGero120> xaero-waypoint:portal:P:-112:52:15:8:false:0:Internal-the-nether-waypoints
+[28Mar2025 05:32:28.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> gracias
+[28Mar2025 05:32:57.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Teleported RonaldPe25 to 135.900000, 70.000000, 294.500000]
+[28Mar2025 05:33:49.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> solo quieres eficiencia?
+[28Mar2025 05:33:54.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElGero120> sip
+[28Mar2025 05:33:58.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> oks
+[28Mar2025 05:34:04.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElGero120> thx
+[28Mar2025 05:34:47.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElGero120 has made the advancement [Enchanter]
+[28Mar2025 05:36:15.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Teleported RonaldPe25 to 346.500000, 70.000000, -295.500000]
+[28Mar2025 05:38:57.686] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Inquisitor'/61905, l='ServerLevel[world]', x=209.38, y=37.00, z=-271.09] died: Sanctum Inquisitor went up in flames
+[28Mar2025 05:41:34.636] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/61870, l='ServerLevel[world]', x=194.94, y=30.36, z=-293.07] died: Sanctum Cultist tried to swim in lava
+[28Mar2025 05:44:10.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> ni un molde >:V
+[28Mar2025 05:44:17.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> lo mismo dicen los religiosos de dios
+[28Mar2025 05:44:17.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElGero120> xc
+[28Mar2025 05:44:22.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> que le dieron la oportunidad xd
+[28Mar2025 05:44:25.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElGero120> xdd
+[28Mar2025 05:44:57.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Teleported RonaldPe25 to -748.500000, 80.000000, -1138.500000]
+[28Mar2025 05:44:58.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> es para los aviones
+[28Mar2025 05:46:46.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElGero120 has made the advancement [Ol' Betsy]
+[28Mar2025 05:48:53.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Teleported RonaldPe25 to 1112.500000, 80.000000, -1416.500000]
+[28Mar2025 05:48:53.229] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2123ms or 42 ticks behind
+[28Mar2025 05:49:13.292] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1109, y=76, z=-1413} BlockPos{x=1109, y=74, z=-1415}
+[28Mar2025 05:49:13.595] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1109, y=76, z=-1413} BlockPos{x=1109, y=75, z=-1415}
+[28Mar2025 05:51:09.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Teleported RonaldPe25 to -111.500000, 52.500000, 15.500000]
