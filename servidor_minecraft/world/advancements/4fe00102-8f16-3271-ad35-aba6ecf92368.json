@@ -1038,10 +1038,14 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-03-28 04:19:17 +0000",
       "minecraft:skeleton": "2025-03-25 05:20:06 +0000",
+      "minecraft:vindicator": "2025-03-28 04:17:27 +0000",
       "minecraft:spider": "2025-03-26 04:20:35 +0000",
       "minecraft:creeper": "2025-03-26 04:55:53 +0000",
+      "minecraft:witch": "2025-03-28 04:24:09 +0000",
       "minecraft:husk": "2025-03-25 05:21:24 +0000",
+      "minecraft:vex": "2025-03-28 04:27:51 +0000",
       "minecraft:zombie": "2025-03-25 03:59:29 +0000"
     },
     "done": false
@@ -3353,6 +3357,18 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-03-27 03:59:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-03-28 04:17:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-03-28 04:17:27 +0000"
     },
     "done": true
   },

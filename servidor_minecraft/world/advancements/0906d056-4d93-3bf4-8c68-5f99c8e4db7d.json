@@ -566,6 +566,7 @@
       "minecraft:pillager": "2025-03-26 06:01:54 +0000",
       "minecraft:blaze": "2025-03-26 21:22:31 +0000",
       "minecraft:skeleton": "2025-03-25 03:24:21 +0000",
+      "minecraft:ravager": "2025-03-28 04:21:41 +0000",
       "minecraft:vindicator": "2025-03-26 05:56:01 +0000",
       "minecraft:spider": "2025-03-25 03:47:05 +0000",
       "minecraft:creeper": "2025-03-26 05:49:06 +0000",
@@ -4391,6 +4392,18 @@
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2025-03-27 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-28 04:27:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-03-28 04:27:10 +0000"
     },
     "done": true
   },
