@@ -647,3 +647,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [28Mar2025 06:38:28.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [28Mar2025 06:38:28.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruno se la come att: el admin<--[HERE]
 [28Mar2025 07:02:51.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElGero120 moved wrongly!
+[28Mar2025 07:29:20.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElGero120> BUENO YA TENGO LO QUE QUERIA
+[28Mar2025 07:29:24.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElGero120> VOY A JATEAR
+[28Mar2025 07:29:32.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> OKYU
+[28Mar2025 07:29:38.269] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElGero120 lost connection: Disconnected
+[28Mar2025 07:29:38.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElGero120 left the game
