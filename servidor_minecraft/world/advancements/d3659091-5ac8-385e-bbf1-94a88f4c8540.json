@@ -178,7 +178,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-03-28 06:00:59 +0000",
       "minecraft:nether_wastes": "2025-03-24 20:27:08 +0000",
-      "minecraft:soul_sand_valley": "2025-03-24 20:38:52 +0000"
+      "minecraft:soul_sand_valley": "2025-03-24 20:38:52 +0000",
+      "minecraft:warped_forest": "2025-03-28 06:21:03 +0000"
     },
     "done": false
   },
@@ -4092,6 +4093,14 @@
     },
     "done": true
   },
+  "incendium:toxic_heap/mystic_wisdom": {
+    "criteria": {
+      "waste": "2025-03-28 06:23:32 +0000",
+      "junk": "2025-03-28 06:23:20 +0000",
+      "treasure": "2025-03-28 06:24:57 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2025-03-28 05:34:13 +0000"
@@ -4140,9 +4149,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-03-28 06:20:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-03-28 05:03:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-03-28 06:27:17 +0000"
     },
     "done": true
   },
@@ -4173,6 +4194,12 @@
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-03-28 05:34:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-03-28 06:23:22 +0000"
     },
     "done": true
   },
@@ -4236,6 +4263,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-03-28 06:23:22 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/nuclear_fusion": {
+    "criteria": {
+      "incendium:junk": "2025-03-28 06:23:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
     "criteria": {
       "has_snout_armor_trim_smithing_template": "2025-03-28 06:14:21 +0000"
@@ -4245,6 +4284,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-03-28 05:34:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-03-28 06:27:17 +0000"
     },
     "done": true
   },
@@ -4284,6 +4329,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-03-28 06:23:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-03-28 05:34:13 +0000"
@@ -4299,6 +4350,12 @@
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-03-28 05:38:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-03-28 06:23:22 +0000"
     },
     "done": true
   },
