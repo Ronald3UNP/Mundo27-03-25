@@ -4396,9 +4396,39 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_stone_stairs": {
+    "criteria": {
+      "has_block": "2025-03-28 06:49:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-03-28 04:53:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/birch_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-03-28 06:47:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-03-28 06:40:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-03-28 06:40:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_wall_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-03-28 06:49:08 +0000"
     },
     "done": true
   },
@@ -4408,9 +4438,69 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_stone_bricks_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-03-28 06:49:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/spruce_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-03-28 06:47:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_stone_pressure_plate": {
+    "criteria": {
+      "has_block": "2025-03-28 06:49:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/mangrove_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-03-28 06:47:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-03-28 05:34:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-03-28 06:40:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_normal_stone_slab_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-03-28 06:49:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_smooth_stone": {
+    "criteria": {
+      "has_item": "2025-03-28 06:49:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-03-28 06:40:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-03-28 06:40:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/dark_oak_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-03-28 06:47:25 +0000"
     },
     "done": true
   },
@@ -4426,9 +4516,57 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_stone_bricks_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-03-28 06:49:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-03-28 05:46:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_normal_stone_slab": {
+    "criteria": {
+      "has_block": "2025-03-28 06:49:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-03-28 06:40:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/acacia_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-03-28 06:47:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-03-28 06:40:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_stone_button": {
+    "criteria": {
+      "has_block": "2025-03-28 06:49:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-03-28 06:40:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/bamboo_security_sea_raft": {
+    "criteria": {
+      "has_keypad_chest": "2025-03-28 06:47:25 +0000"
     },
     "done": true
   },
@@ -4438,15 +4576,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-03-28 06:40:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_bricks": {
+    "criteria": {
+      "has_block": "2025-03-28 06:49:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_slab_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-03-28 06:49:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/cherry_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-03-28 06:47:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-03-28 04:53:13 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/transportation/oak_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-03-28 06:47:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-03-28 06:40:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-03-28 06:40:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2025-03-28 04:42:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_stairs_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-03-28 06:49:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_stairs_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-03-28 06:49:08 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_the_recipe": "2025-03-28 06:42:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/jungle_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-03-28 06:47:25 +0000"
     },
     "done": true
   },

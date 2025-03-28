@@ -646,3 +646,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [28Mar2025 06:37:19.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon has made the advancement [The Parrots and the Bats]
 [28Mar2025 06:38:28.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [28Mar2025 06:38:28.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruno se la come att: el admin<--[HERE]
+[28Mar2025 07:02:51.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElGero120 moved wrongly!

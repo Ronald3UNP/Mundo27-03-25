@@ -5025,6 +5025,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-03-28 06:58:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli_from_smelting_deepslate_lapis_ore": {
     "criteria": {
       "has_deepslate_lapis_ore": "2025-03-28 06:24:38 +0000"
@@ -5034,6 +5040,24 @@
   "minecraft:recipes/decorations/yellow_bed": {
     "criteria": {
       "has_yellow_wool": "2025-03-28 04:12:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-03-28 06:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-03-28 06:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2025-03-28 06:39:51 +0000"
     },
     "done": true
   },
@@ -5054,6 +5078,12 @@
       "minecraft:cow": "2025-03-28 06:37:19 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2025-03-28 06:39:51 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/yellow_banner": {
     "criteria": {
