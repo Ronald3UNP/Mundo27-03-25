@@ -3298,3 +3298,78 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [28Mar2025 05:59:37.525] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [28Mar2025 05:59:48.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElGero120> uuuh
 [28Mar2025 05:59:52.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElGero120> goood
+[28Mar2025 06:01:53.155] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/21737, l='ServerLevel[world]', x=-554.46, y=-9.42, z=-674.54] died, message: 'Librarian was slain by TeemoLimon'
+[28Mar2025 06:02:21.433] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-258, y=31, z=236} BlockPos{x=-259, y=30, z=236}
+[28Mar2025 06:02:22.618] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/59631, l='ServerLevel[world]', x=-861.18, y=106.54, z=97.22] died, message: 'Villager was slain by Zombie'
+[28Mar2025 06:02:25.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> por fin toque de seda
+[28Mar2025 06:02:25.779] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-249, y=31, z=236} BlockPos{x=-251, y=32, z=236}
+[28Mar2025 06:02:25.830] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-249, y=31, z=236} BlockPos{x=-251, y=32, z=236}
+[28Mar2025 06:02:25.879] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-249, y=31, z=236} BlockPos{x=-251, y=32, z=236}
+[28Mar2025 06:02:25.931] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-249, y=31, z=236} BlockPos{x=-251, y=32, z=236}
+[28Mar2025 06:02:30.328] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-244, y=29, z=236} BlockPos{x=-245, y=28, z=236}
+[28Mar2025 06:02:32.788] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-241, y=30, z=236} BlockPos{x=-240, y=30, z=236}
+[28Mar2025 06:02:49.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> pt pero te estaba diciendo donde estabas para darte uno
+[28Mar2025 06:03:02.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> te respondi que en mi base
+[28Mar2025 06:03:15.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> no creo
+[28Mar2025 06:03:17.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> no me sale
+[28Mar2025 06:03:19.977] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-230, y=29, z=249} BlockPos{x=-231, y=28, z=249}
+[28Mar2025 06:03:51.438] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-222, y=27, z=287} BlockPos{x=-221, y=26, z=287}
+[28Mar2025 06:04:33.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> guti
+[28Mar2025 06:04:36.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> dime
+[28Mar2025 06:04:37.517] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Mar2025 06:04:37.524] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Mar2025 06:04:37.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> me haces un prestamo?
+[28Mar2025 06:04:41.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> de un stack de esme?
+[28Mar2025 06:04:43.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> depende
+[28Mar2025 06:04:50.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> uhmmm
+[28Mar2025 06:05:00.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> pero no estoy en mi casa
+[28Mar2025 06:05:03.879] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-235, y=28, z=326} BlockPos{x=-236, y=29, z=326}
+[28Mar2025 06:05:06.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> intas?
+[28Mar2025 06:05:10.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> nether
+[28Mar2025 06:05:12.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> a
+[28Mar2025 06:05:13.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> buscando bastiones
+[28Mar2025 06:05:27.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> consigo un molde y vuelvo
+[28Mar2025 06:06:45.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> y me encantaste bb
+[28Mar2025 06:06:46.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> digo
+[28Mar2025 06:09:01.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon was slain by Iron Golem
+[28Mar2025 06:09:07.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElGero120> xdd
+[28Mar2025 06:09:07.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> xd
+[28Mar2025 06:09:36.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set own game mode to Creative Mode]
+[28Mar2025 06:09:37.517] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Mar2025 06:09:37.524] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Mar2025 06:09:51.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Teleported RonaldPe25 to 373.500000, 69.500000, -251.500000]
+[28Mar2025 06:10:18.241] [Worker-Main-66/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[28Mar2025 06:10:21.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TeemoLimon moved too quickly! -6.731862852970904,1.0,-7.488421173925616
+[28Mar2025 06:10:49.016] [Worker-Main-65/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[28Mar2025 06:10:50.769] [Worker-Main-41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[28Mar2025 06:11:07.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RonaldPe25 has made the advancement [Hellfire Mantle]
+[28Mar2025 06:11:21.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElGero120> oigan verdad
+[28Mar2025 06:11:31.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> que fue
+[28Mar2025 06:11:48.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElGero120> hay unadungeon de pilayers en el nether
+[28Mar2025 06:11:55.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> y recien avisas xd
+[28Mar2025 06:11:56.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElGero120> pero perdi las coordeandas
+[28Mar2025 06:11:59.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> Xddddd
+[28Mar2025 06:12:02.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElGero120> recien me acorde
+[28Mar2025 06:12:03.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElGero120> xdd
+[28Mar2025 06:12:05.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> un bastion?
+[28Mar2025 06:12:06.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> AHSJDHJKASHDKJAS
+[28Mar2025 06:12:23.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElGero120> noo
+[28Mar2025 06:12:28.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElGero120> pero esta cerca auna
+[28Mar2025 06:13:07.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> no encuentro ni un bastion
+[28Mar2025 06:13:23.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RonaldPe25 has made the advancement [Darude - Firestorm]
+[28Mar2025 06:13:31.332] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/82599, l='ServerLevel[world]', x=777.05, y=43.00, z=-28.86] died: Headless Warrior was slain by Piglin
+[28Mar2025 06:14:37.520] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Mar2025 06:14:37.527] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Mar2025 06:15:35.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RonaldPe25 has made the advancement [Ancient Battlefield]
+[28Mar2025 06:15:44.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> wtf
+[28Mar2025 06:15:59.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set own game mode to Survival Mode]
+[28Mar2025 06:16:12.636] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/82767, l='ServerLevel[world]', x=811.49, y=43.00, z=23.55] died: Headless Warrior was slain by RonaldPe25
+[28Mar2025 06:16:38.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RonaldPe25 has made the advancement [Nightmare Fuel]
+[28Mar2025 06:16:40.458] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/83118, l='ServerLevel[world]', x=861.41, y=-20.00, z=-22.87] died: Restless Spirit was killed
+[28Mar2025 06:16:46.458] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/83183, l='ServerLevel[world]', x=792.04, y=-20.00, z=54.14] died: Restless Spirit was killed
+[28Mar2025 06:16:48.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set own game mode to Creative Mode]
+[28Mar2025 06:16:49.458] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/83219, l='ServerLevel[world]', x=801.33, y=-20.00, z=27.80] died: Restless Spirit was killed
+[28Mar2025 06:17:04.730] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/82812, l='ServerLevel[world]', x=809.35, y=56.00, z=72.68] died: Headless Warrior was shot by Piglin
+[28Mar2025 06:19:37.526] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Mar2025 06:19:37.532] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Mar2025 06:21:22.459] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/85895, l='ServerLevel[world]', x=1247.26, y=-20.00, z=-202.89] died: Toxic Slime was killed
