@@ -179,9 +179,10 @@
       "minecraft:crimson_forest": "2025-03-28 06:00:59 +0000",
       "minecraft:nether_wastes": "2025-03-24 20:27:08 +0000",
       "minecraft:soul_sand_valley": "2025-03-24 20:38:52 +0000",
-      "minecraft:warped_forest": "2025-03-28 06:21:03 +0000"
+      "minecraft:warped_forest": "2025-03-28 06:21:03 +0000",
+      "minecraft:basalt_deltas": "2025-03-28 18:47:50 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
@@ -4464,6 +4465,12 @@
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-03-28 06:34:59 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-03-28 18:51:57 +0000"
     },
     "done": true
   },

@@ -148,3 +148,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [28Mar2025 17:45:04.868] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2721ms or 54 ticks behind
 [28Mar2025 18:39:45.343] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RonaldPe25[/100.86.179.65:50081] logged in with entity id 8145 at (-879.9595187653111, 50.0, 61.833746814193574)
 [28Mar2025 18:39:45.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RonaldPe25 joined the game
+[28Mar2025 18:47:50.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RonaldPe25 has completed the challenge [Hot Tourist Destinations]
+[28Mar2025 18:51:57.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RonaldPe25 has made the advancement [Straddle My Ol' Saddle]
+[28Mar2025 18:54:13.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Teleported RonaldPe25 to 134.500000, 89.500000, 754.500000]
+[28Mar2025 18:54:26.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Teleported RonaldPe25 to 163.500000, 73.500000, 640.500000]
