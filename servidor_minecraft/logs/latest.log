@@ -653,3 +653,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [28Mar2025 07:29:38.269] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElGero120 lost connection: Disconnected
 [28Mar2025 07:29:38.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElGero120 left the game
 [28Mar2025 07:54:12.119] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/112955, l='ServerLevel[world]', x=-474.50, y=-0.75, z=-652.43] died, message: 'Librarian tried to swim in lava'
+[28Mar2025 08:14:18.513] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TeemoLimon lost connection: Disconnected
+[28Mar2025 08:14:18.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon left the game
